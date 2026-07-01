@@ -1,2 +1,2 @@
 # exercising
-is about to learn and exercis
+hello every one
