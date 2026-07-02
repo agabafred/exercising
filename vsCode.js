@@ -15,3 +15,4 @@ else{
 
 // this is a simple code to calculate the total years of independence in rwanda and also to check if the total years of independence is less than or equal to 30 or greater than or equal to 36 or in between 30 and 36
 let barinda = "my name is barinda and i am a software engineer";
+// dont try this again in my codes 
