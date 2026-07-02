@@ -6,6 +6,9 @@ console.log(`the total years of independance in rwanda is equal to : ${totalYear
 if (totalYearsOfIndependance<=30){
     console.log('no many years past ');
 }
+else if(totalYearsOfIndependance>=36){
+    console.log('thats exactly times of celebration');
+}
 else{
     console.log('there are many years past of celebrating independance years');
 }
