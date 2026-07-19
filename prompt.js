@@ -16,3 +16,4 @@ let ages=Number(agee);
 console.log('lets add 2 :');
 let sums = ages + 2 ;
 console.log('your sum is ' + sums);
+
